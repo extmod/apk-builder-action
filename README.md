@@ -9,7 +9,7 @@ This GitHub action completely automates the _release_ or _debug_ APK building pr
 
 1. [Fork](https://github.com/ni554n/apk-builder-action/fork) this repo on GitHub
 2. Go to the [Build Android APK Workflow](/../../actions/workflows/build-apk.yaml) and select `Run workflow` dropdown menu
-3. Enter the Git repository URL of the Android project
+3. Enter the Git repgository URL of the Android project
 4. Run the workflow and wait for the `apk-archive` zip artifact to appear at the bottom of the **_Summary_** tab on that run
 
 > [!TIP]
